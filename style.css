@@ -74,9 +74,8 @@ form label, form textarea, form input, form button {
 /* Media query for screens with a maximum width of 768px */
 @media screen and (max-width: 600px) {
     nav ul {
-        margin-left: 0;
         list-style: none;
-        margin-left: 69%; 
+        margin-left: 42%;
     }
     .img {
         display: inline;
