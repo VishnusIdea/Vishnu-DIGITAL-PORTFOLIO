@@ -70,7 +70,11 @@ form label, form textarea, form input, form button {
     margin: 10px;
 }
 
-/* Media query for screens with a maximum width of 768px */
+.db{
+height: 45px;
+width: 159px;
+background-color: rgb(34, 153, 245);
+}
 @media screen and (max-width: 600px) {
     nav ul {
         list-style: none;
