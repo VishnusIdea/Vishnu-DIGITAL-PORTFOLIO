@@ -53,6 +53,34 @@
             border-left: 5px solid #0e3a53;
             background-color: #f2f2f2;
         }
+
+        @media screen and (max-width: 600px) {
+
+            .img {
+                height: 402px;
+                width: 124px;
+            }
+
+            blockquote {
+                font-style: italic;
+                margin: 10px 0;
+                padding: 10px;
+                border-left: 5px solid #0e3a53;
+                background-color: #f2f2f2;
+            }
+
+            .container {
+                max-width: 1175px;
+                background-color: #fff;
+                padding-left: 30%;
+                margin-top: -425px;
+                width: 275px;
+            }
+        }
+
+        .books {
+            padding: 91px;
+        }
     </style>
 </head>
 
@@ -85,13 +113,13 @@
     <div class="books">
         <h2>Best Inspiring Books Written by Dr APJ Abdul Kalam</h2>
         <blockquote>
-            An Autobiography
+            Wings of Fire: An Autobiography
         </blockquote>
         <blockquote>
-            A Journey Through Challenges
+            Turning Points: A Journey Through Challenges
         </blockquote>
         <blockquote>
-            Transforming Dreams into Actions
+            My Journey: Transforming Dreams into Actions
         </blockquote>
         <blockquote>
             A Vision for the New Millennium
