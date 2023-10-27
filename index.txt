@@ -130,8 +130,7 @@
     <section id="about">
         <h2>About Me</h2>
         <p>
-            Hello Everyone! i am vishnu.V and i am doing bachelor of computer
-            application .
+            Hello Everyone! i am vishnu.V and i am doing bachelor of computer application .
         </p>
     </section>
     <section id="Education">
